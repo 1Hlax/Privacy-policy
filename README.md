@@ -1,1 +1,1 @@
-# Privacy-policy
+# Tajmea Privacy-policy
