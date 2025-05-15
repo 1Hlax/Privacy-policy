@@ -1,0 +1,51 @@
+# Privacy Policy for VulnEye
+
+Date: [2025-05-15]
+
+VulnEye ("we", "our", or "us") respects your privacy and is committed to protecting the personal information you may provide while using our application.
+
+## 1. Information We Collect
+
+VulnEye does **not** collect any personally identifiable information (PII) from users. However, we may collect non-personal data for the purpose of improving the application, such as:
+
+- Anonymous usage statistics
+- Crash reports (if enabled by your device)
+
+## 2. How We Use the Information
+
+The non-personal data we collect is used solely to:
+
+- Improve application stability and performance
+- Monitor API response times and errors
+- Enhance the user experience
+
+We do **not** sell, trade, or transfer any data to third parties.
+
+## 3. Third-Party Services
+
+VulnEye integrates with third-party public APIs such as:
+
+- [NVD (National Vulnerability Database)](https://nvd.nist.gov/)
+
+These services may log standard web request data (such as IP address, request time, and user agent) as part of their own privacy and security policies. We recommend reviewing their privacy policies for more information.
+
+## 4. Security
+
+We implement standard security measures to protect all information retrieved or stored locally. However, no method of transmission over the Internet is 100% secure.
+
+## 5. Children's Privacy
+
+VulnEye is not intended for use by individuals under the age of 13. We do not knowingly collect any data from children.
+
+## 6. Changes to This Policy
+
+We may update this Privacy Policy from time to time. When we do, we will revise the "Effective Date" at the top of this page. We encourage you to review this page periodically for any changes.
+
+## 7. Contact Us
+
+If you have any questions about this Privacy Policy, please contact:
+
+**Developer:** Ziyad Almutairi  
+**Email:** [xhlaxz@gmail.com]  
+
+---
